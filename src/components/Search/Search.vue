@@ -30,7 +30,9 @@
 </template>
 
 <script>
-	import Music_list from "@/components/Search/Music_list"
+	import Music_list from "@/components/Search/Music_list" 
+
+	export default{
 	  	name: 'Search',
 		data(){
 			return {
